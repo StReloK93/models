@@ -1,0 +1,9 @@
+.img{
+    width: 100%;
+    box-shadow: 0 0 5px 0px #848484;
+    border-radius: 6px;
+}
+
+.dark{
+    background-color: #171746!important;
+}
